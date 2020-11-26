@@ -283,7 +283,3 @@ void initialise()
 //I learnt that c++ don't have a len function.
 //I think the hardest part yet is the memmory adresses
 
-int main()
-{
-	
-}
